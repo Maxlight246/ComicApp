@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58809315872",
+    "firebase_url": "https://comicreader-65562.firebaseio.com",
+    "project_id": "comicreader-65562",
+    "storage_bucket": "comicreader-65562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58809315872:android:7a2b4f1901964b83",
+        "android_client_info": {
+          "package_name": "com.example.comicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58809315872-0q17e6gsd6pjdl0mudf072ekkrjpvue5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comicapp",
+            "certificate_hash": "ad31016f3f9938cd98fd921baf33af4931106830"
+          }
+        },
+        {
+          "client_id": "58809315872-2ec5botihoceef69qadhvdghdpuu8hfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbEp0xXXujszjVRQTEi06V7a7HvgA7J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58809315872-2ec5botihoceef69qadhvdghdpuu8hfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
